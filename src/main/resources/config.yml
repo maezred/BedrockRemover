@@ -1,0 +1,21 @@
+# Basic config.
+speed: 100 # Chunks per tick.
+multiplier: 100 # Multiplier for empty chunks.
+
+worlds:
+  world_nether:
+    layers:
+      - 123
+      - 124
+      - 125
+      - 126
+      - 127
+      - 128
+    blocks:
+      - BEDROCK
+      - BROWN_MUSHROOM
+      - RED_MUSHROOM
+    done: true # Set this to false to begin removal process for entire world.
+
+# Enable/Disable the plugin entirely.
+enabled: true

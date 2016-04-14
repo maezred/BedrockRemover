@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BedrockRemover">
+    <output-path>$PROJECT_DIR$/out/artifacts/BedrockRemover</output-path>
+    <root id="archive" name="BedrockRemover.jar">
+      <element id="module-output" name="BedrockRemover" />
+    </root>
+  </artifact>
+</component>
